@@ -7,7 +7,7 @@ using namespace cv;
 using namespace std;
 
 
-
+// Temp
 void bitwise (){
     string Path_1 ="/home/salavat/diamond.jpg";
     string Path_2 = "/home/salavat/bubble.jpg";
